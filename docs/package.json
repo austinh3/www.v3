@@ -1,0 +1,19 @@
+{
+  "name": "www.v3",
+  "version": "0.0.1",
+  "description": "Austin H3 next gen Web site",
+  "main": "index.js",
+  "authors": {
+    "name": "Bill",
+    "email": "bill@bcorrigan.com"
+  },
+  "repository": "https://github.com/austinh3/www.v3/www.v3",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
