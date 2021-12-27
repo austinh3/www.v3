@@ -4,11 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Austin H3',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'A drinking club with a running problem doing trails around Austin, Texas on Sunday afternoons.',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`

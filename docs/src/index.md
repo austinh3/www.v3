@@ -5,7 +5,7 @@ tagline: Next gen Austin H3 Web site.
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
+- title: Beer 1 Title
   details: Feature 1 Description
 - title: Feature 2 Title
   details: Feature 2 Description
