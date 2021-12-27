@@ -1,7 +1,7 @@
 {
   "name": "www.v3",
   "version": "0.0.1",
-  "description": "Austin H3 next gen Web site",
+  "description": "Next gen Austin H3 Web site.",
   "main": "index.js",
   "authors": {
     "name": "Bill",

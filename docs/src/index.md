@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Austin H3 next gen Web site
+tagline: Next gen Austin H3 Web site.
 actionText: Quick Start →
 actionLink: /guide/
 features:
